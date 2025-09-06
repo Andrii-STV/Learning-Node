@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@inquirer/prompts": "^7.8.4",
+    "qr-image": "^3.2.0"
+  },
+  "name": "qr-project",
+  "version": "1.0.0",
+  "description": "Creating an app that'd generate QR codes and save them as images",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew S",
+  "license": "ISC"
+}
